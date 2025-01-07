@@ -1,4 +1,3 @@
----
 
 # Chapter 2: Advanced JavaScript Concepts for React  
 
@@ -8,8 +7,6 @@ In this chapter, we will cover some **advanced and modern JavaScript features** 
 3. Default Parameters  
 4. Object and Array Methods  
 5. Modules and Imports  
-
----
 
 ## 1. Destructuring  
 Destructuring allows you to unpack values from arrays or properties from objects into distinct variables.  
