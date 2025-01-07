@@ -1,6 +1,7 @@
 # Essential JavaScript for React
 
 This repository contains key JavaScript concepts that are essential for working with React. It’s a beginner-friendly guide to understanding the JavaScript features used in React development.
+#### I'm Open to feedbacks and suggestions, any changes in this repo would be highly appreciated! 
 
 > **Note:** The content here is compiled from various references,
 > order of the topics covered might be different. 
