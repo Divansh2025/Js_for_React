@@ -2,8 +2,8 @@
 
 This repository contains key JavaScript concepts that are essential for working with React. It’s a beginner-friendly guide to understanding the JavaScript features used in React development.
 
-> **Note:** The content here is compiled from various references, with credits given to the original sources.
-> Order of the topics covered might be different. 
+> **Note:** The content here is compiled from various references,
+> order of the topics covered might be different. 
 
 ## Topics Covered
 
